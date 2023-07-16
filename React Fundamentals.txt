@@ -1,0 +1,35 @@
+Functional Components
+Class components
+JSX
+Dynamic outputting
+props
+composition (children props)
+state
+setState
+Destructuring props and state
+Event Handler in react
+Two way binding
+child to parent component comunication (Bottom-up)
+Lifting The state up
+setting Dynamic inline Styles
+setting css classes dynamically
+Dynamic props
+Dynamic styles with css Modules
+Wrapper component
+React Fragments
+pure components
+memo
+portals
+refs
+Error Boundaries
+High order Components
+render props
+controlled vs uncontrolled components
+
+
+
+
+
+
+
+
